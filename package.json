@@ -1,5 +1,5 @@
 {
-  "name": "sit725-2023-t1-prac4",
+  "name": "sit725-2023-t1-prac5",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -9,15 +9,16 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
-    "mongodb": "^4.4.1"
+    "mongodb": "^4.4.1",
+    "nodemon": "^2.0.22"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/indladineshgithub/sit725-2023-t1-prac4.git"
+    "url": "git+https://github.com/indladineshgithub/sit725-2023-t1-prac5.git"
   },
   "bugs": {
     "url": "https://github.com/indladineshgithub/sit725-2023-t1-prac4/issues"
   },
-  "homepage": "https://github.com/indladineshgithub/sit725-2023-t1-prac4#readme",
+  "homepage": "https://github.com/indladineshgithub/sit725-2023-t1-prac5#readme",
   "description": ""
 }
