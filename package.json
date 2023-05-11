@@ -1,24 +1,28 @@
 {
-  "name": "sit725-2023-t1-prac5",
+  "name": "sit725-2023-t1-prac6",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "mocha --reporter spec"
   },
   "author": "Dinesh",
   "license": "ISC",
   "dependencies": {
+    "chai": "^4.3.7",
     "express": "^4.18.2",
+    "mocha": "^10.2.0",
     "mongodb": "^4.4.1",
-    "nodemon": "^2.0.22"
+    "nodemon": "^2.0.22",
+    "request": "^2.88.2"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/indladineshgithub/sit725-2023-t1-prac5.git"
+    "url": "git+https://github.com/indladineshgithub/sit725-2023-t1-prac6.git"
   },
   "bugs": {
-    "url": "https://github.com/indladineshgithub/sit725-2023-t1-prac4/issues"
+    "url": "https://github.com/indladineshgithub/sit725-2023-t1-prac6/issues"
   },
-  "homepage": "https://github.com/indladineshgithub/sit725-2023-t1-prac5#readme",
+  "homepage": "https://github.com/indladineshgithub/sit725-2023-t1-prac6#readme",
   "description": ""
 }
